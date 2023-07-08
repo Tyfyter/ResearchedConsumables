@@ -1,0 +1,1 @@
+Infinite Researched Consumables prevents consumption of consumables which have been fully researched and lets weapons use their "default" ammo type if no other ammo is available and it has been researched
