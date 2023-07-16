@@ -1,3 +1,4 @@
 displayName = Infinite Researched Consumables
 author = Tyfyter
-version = 0.3
+version = 0.3.1
+homepage = https://tyfyter.github.io/

@@ -1,0 +1,49 @@
+Configs: {
+	ResearchedConsumables: {
+		DisplayName: Settings
+
+		ConsumeItem: {
+			Label: Affect ConsumeItem
+			Tooltip: ""
+		}
+
+		CanBeConsumedAsAmmo: {
+			Label: Affect CanBeConsumedAsAmmo
+			Tooltip: ""
+		}
+
+		NeedsAmmo: {
+			Label: Affect NeedsAmmo
+			Tooltip: ""
+		}
+
+		Tiles: {
+			Label: Affect Placeables
+			Tooltip: ""
+		}
+	}
+
+	ResearchedConsumablesConfig: {
+		DisplayName: Researched Consumables Config
+
+		ConsumeItem: {
+			Label: Consume Item
+			Tooltip: ""
+		}
+
+		CanBeConsumedAsAmmo: {
+			Label: Can Be Consumed As Ammo
+			Tooltip: ""
+		}
+
+		NeedsAmmo: {
+			Label: Needs Ammo
+			Tooltip: ""
+		}
+
+		Tiles: {
+			Label: Tiles
+			Tooltip: ""
+		}
+	}
+}
